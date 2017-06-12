@@ -94,6 +94,7 @@ var friendOpt = [
      5,
      5
       ]
-},
+  }
+];
 
 module.exports = friendOpt;
